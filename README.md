@@ -9,5 +9,5 @@
 - **Powered by**: Suno.ai
 
 **C04**
-- **Sound Provider**: **NOVA＠OPEN CLUSTER** (@OpenC_Nova)
+- **Thank you to the anonymous composer for providing the C04 track.**
 
