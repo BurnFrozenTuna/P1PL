@@ -1,3 +1,7 @@
 # Test build
 * This is audio data hosted in the chat.
-* This is my first time putting something into an LLM-based AI RP story chat, so I'm a little nervous...
+
+  
+* C04 Sound Provider
+*   **NOVA＠OPEN CLUSTER**
+*   @OpenC_Nova
