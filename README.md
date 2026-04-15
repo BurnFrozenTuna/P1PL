@@ -3,5 +3,5 @@
 
   
 * C04 Sound Provider
-*   **NOVA＠OPEN CLUSTER**
-*   @OpenC_Nova
+*   * **NOVA＠OPEN CLUSTER**
+*   * @OpenC_Nova
