@@ -17,3 +17,6 @@
     *   02: Busking Stage — A02.mp3 / C02.mp3
     *   03: Concert Venue — A03.mp3 / C03.mp3
     *   04: Battle Stage (Final) — A04.mp3 + C04.mp3 simultaneous
+
+##SUNO page
+    * https://suno.com/playlist/bdd03832-c32e-4f6f-87e1-5c0b91de7a45
